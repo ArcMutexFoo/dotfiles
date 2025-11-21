@@ -2,12 +2,13 @@ font-family = "Iosevka Term SS14"
 font-family-bold = "Iosevka Term SS14"
 
 font-size = 16
-background-opacity = 1
+background-opacity = 0.7
 background-blur = true
 
 cursor-style-blink = false
 cursor-style = block
 shell-integration-features = no-cursor
-theme = "Banana Blueberry"
+# theme = "Banana Blueberry"
+theme = "Gruvbox Dark"
 title = "Ghostty terminal"
 

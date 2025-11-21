@@ -2,6 +2,7 @@
 	path = ./config.user
 [core]
 	editor = nvim
+	; hooksPath = .git/hooks
 
 [status]
 	branch = true
