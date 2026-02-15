@@ -1,0 +1,19 @@
+#!/bin/env zsh
+alias lg="lazygit"
+alias ls="eza --long --modified --git --icons=always"
+alias n="nvim"
+alias lst="ls --tree"
+alias gs="git status"
+alias c="clear"
+alias v="nvim"
+alias nf="neofetch"
+
+# tmux alias
+alias t="tmux"
+alias ta="tmux a -t $1"
+alias tls="tmux ls"
+alias tns="tmux new -s $1"
+
+alias bare="/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME"
+alias images="/usr/bin/git --git-dir=$HOME/images --work-tree=$HOME/Pictures/"
+

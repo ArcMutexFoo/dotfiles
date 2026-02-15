@@ -1,0 +1,5 @@
+config-file = keybinds.conf
+config-file = font.conf
+config-file = theme.conf
+
+
